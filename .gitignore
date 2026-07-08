@@ -1,2 +1,48 @@
 node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# Native builds
 android/
+ios/
+build/
+dist/
+
+# Dependencies and tooling
+coverage/
+.cache/
+.eslintcache
+.npm/
+.pnpm-store/
+.yarn/
+.parcel-cache/
+*.tsbuildinfo
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Android/React Native local files
+.gradle/
+android/.gradle/
+android/app/build/
+local.properties
+*.keystore
+*.jks
+
+# Environment files
+.env
+.env.*
