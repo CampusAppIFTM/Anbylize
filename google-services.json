@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438872457138",
+    "project_id": "aula-login-ac9e7",
+    "storage_bucket": "aula-login-ac9e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438872457138:android:85e3e7ba46c2193b412eab",
+        "android_client_info": {
+          "package_name": "br.edu.iftm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438872457138-qlp63ob9kpadtsl92d0cvg3b5gpk5m9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.iftm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "438872457138-miq1lm1c3cue420bg81k8erkqd9o3cij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVveTJT0ZwTFBairUiqt3HP1AtpPP9DVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438872457138-miq1lm1c3cue420bg81k8erkqd9o3cij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
