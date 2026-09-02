@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "813994495961",
+    "project_id": "anbylize",
+    "storage_bucket": "anbylize.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813994495961:android:73062c53abc561173c53c8",
+        "android_client_info": {
+          "package_name": "com.campusappiftm.anbylize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813994495961-78o41i05r28v3b8tk2v25efh35oi42nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campusappiftm.anbylize",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "813994495961-9a5g72focg0k2onrv5l8nsjcpg3uq8rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EI2hXA-zmslf9Mr66N8xoGY-hv9Dtjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813994495961-9a5g72focg0k2onrv5l8nsjcpg3uq8rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
